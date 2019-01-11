@@ -1,0 +1,53 @@
+Outline for Javascript Class
+
+i. Setup the environment
+	a. Class will use Plnkr.co to compile
+	b. Show Live changes, html & js file, developer tools for fast feedback
+	c. JS is case sensitive, show hello world on developer tools output and show how it catches errors
+
+ii. Beginnings
+	a. Storing information on variables
+		- "let" to assign a variable, and printing the variable, defining multiple variables with one let
+	b. Variable Errors
+		- product not defined, undefined, unexpected token class
+	c. String and Numeric variables
+		- Examples of Strings: 'hello', "hello", "hello's"
+		- Examples of Numbers: 5, 3.00, 0.42
+		- Adding numbers and why they need to numbers and not strings
+			- ex: 5+3=8, 5+"3"=53 since it js doesn't know string vs number
+		- using "+" operator on strings vs numbers (concat)
+	d. Simple Operators
+		- +, -, *, /, %, ()
+	e. Comments
+		- //, /* */, in line comments
+	f. Starting blackjack application
+		- Defining our variables and printing the hello to blackjack
+
+iii. Types and Arrays
+	a. String and Number types
+		- "TypeOf" Function
+	b. Boolean types
+		- true, false, typeof
+	c. undefined and null
+		- uninitialized=undefined, intentionally blank out a variable = null
+	d. Arrays
+		- values are called elements
+		- [], subscripting to get array values,	arrays can have any datatype,
+		- array features, .length, .push, .pop, .shift, .splice
+		- array methods on Google
+	e. Adding Arrays to blackjack
+		- create array of deck, and playercards
+
+iv.	Program Flow
+	a. conditions
+		- if
+			- introduce ===, >, >=, !==, etc on the if
+		- else
+			- else if
+		- switch-case
+		- looping with for
+			- introduce ++ as well
+		- looping with while
+		- Introduce Nested loops
+		- adding loops to blackjack
+			- Use nested loops to loop through array of suits and values to create a deck of 52
