@@ -1,0 +1,7 @@
+Class 1 Assignments:
+	- Take this file of code which has errors, use compiler to catch errors and solve them
+	- Practice with "let" to assign variables
+	- String and numeric Variables
+	- Operations on Variables
+	- Challenge Problem
+
