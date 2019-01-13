@@ -1,0 +1,21 @@
+Challenge Problem 1 - String concat
+Assign two variables: string1 and string2. Print out the concatinated form of these strings
+
+
+Challenge Problem 2 - Random numbers (Will need google, hint: Math.random())
+Assign two variables with random whole integers: var1, var2
+Print out the following operations of the numbers:
+	var1 + var2, var1 - var2, var1 * var2, var1 / var2, var1 % var2
+
+
+Challenge Problem 3 - The Lifetime Supply Calculator
+
+Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no more!
+
+Store your current age into a variable.
+Store a maximum age into a variable.
+Store an estimated amount per day (as a number).
+Calculate how many you would eat total for the rest of your life.
+Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
+
+

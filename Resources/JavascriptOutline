@@ -8,14 +8,16 @@ i. Setup the environment
 ii. Beginnings
 	a. Storing information on variables
 		- "let" to assign a variable, and printing the variable, defining multiple variables with one let
+		- reassigning variables
 	b. Variable Errors
 		- product not defined, undefined, unexpected token class
 	c. String and Numeric variables
 		- Examples of Strings: 'hello', "hello", "hello's"
 		- Examples of Numbers: 5, 3.00, 0.42
-		- Adding numbers and why they need to numbers and not strings
+		- Adding numbers and why they need to be numbers and not strings
 			- ex: 5+3=8, 5+"3"=53 since it js doesn't know string vs number
 		- using "+" operator on strings vs numbers (concat)
+		- Take user prompt and print, firstname & lastname
 	d. Simple Operators
 		- +, -, *, /, %, ()
 	e. Comments
@@ -26,6 +28,8 @@ ii. Beginnings
 iii. Types and Arrays
 	a. String and Number types
 		- "TypeOf" Function
+		- Take user prompt and print, num1 + num2
+			- function: parseInt
 	b. Boolean types
 		- true, false, typeof
 	c. undefined and null
