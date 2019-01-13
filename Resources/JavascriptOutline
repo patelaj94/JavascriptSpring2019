@@ -4,7 +4,7 @@ i. Setup the environment
 	a. Class will use Plnkr.co to compile
 	b. Show Live changes, html & js file, developer tools for fast feedback
 	c. JS is case sensitive, show hello world on developer tools output and show how it catches errors
-
+	
 ii. Beginnings
 	a. Storing information on variables
 		- "let" to assign a variable, and printing the variable, defining multiple variables with one let
