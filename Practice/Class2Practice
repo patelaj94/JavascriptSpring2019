@@ -1,0 +1,12 @@
+Challenge Problem 1 - Booleans
+
+
+Challenge Problem 2 - HTML and the DOM questions - you'll need to google these
+1. What does HTML stand for?
+2. How do you make an blank text box as input?
+3. What is an iframe?
+
+Challenge Problem 3 - Add more text to a page: You'll need https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#DOM_interfaces
+Take a look at the directory problem3 in Practice. There are two lines missing. We want our page to add another piece of text before the box saying "The text above has been created dynamically." when we click the button.
+You'll only need to add two lines of code to the javascript file for this to work. If you can't figure out the problem, then the solutions are in the same directoy.
+
