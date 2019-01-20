@@ -7,7 +7,7 @@ i. Setup the environment
 	
 ii. Beginnings
 	a. Storing information on variables
-		- "let" to assign a variable, and printing the variable, defining multiple variables with one let
+		- "var" to assign a variable, and printing the variable, defining multiple variables with one let
 		- reassigning variables
 	b. Variable Errors
 		- product not defined, undefined, unexpected token class
