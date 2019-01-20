@@ -30,17 +30,18 @@ iii. Types and Arrays
 		- "TypeOf" Function
 		- Take user prompt and print, num1 + num2
 			- function: parseInt
-	b. Boolean types
-		- true, false, typeof
-	c. undefined and null
+	b. undefined and null
 		- uninitialized=undefined, intentionally blank out a variable = null
-	d. Arrays
-		- values are called elements
-		- [], subscripting to get array values,	arrays can have any datatype,
-		- array features, .length, .push, .pop, .shift, .splice
-		- array methods on Google
-	e. Adding Arrays to blackjack
+	c. Arrays
+		- values are called elements, defined with let
+		- [], subscripting to get array values [0],	arrays can have any datatype,
+		- array features, .length, .push, .pop, .shift, unshift, .splice
+		- let result = values.add() -> console log
+		- array methods on Google - w3 schools
+	d. Adding Arrays to blackjack
 		- create array of deck, and playercards
+	e. Boolean types
+		- true, false, typeof
 
 iv.	Program Flow
 	a. conditions
@@ -55,3 +56,6 @@ iv.	Program Flow
 		- Introduce Nested loops
 		- adding loops to blackjack
 			- Use nested loops to loop through array of suits and values to create a deck of 52
+v.  Functions
+vi. Scope
+vii.Objects - Refer back to Array object and how it works
