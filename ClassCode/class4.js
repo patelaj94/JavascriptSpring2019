@@ -21,10 +21,19 @@
 	// let output = multiply(3);
 	// console.log(output)
 // Example 4 - Local vs Global scope - hoisting in Javascript
+	// // Function Scopes
+	// function hey() {
+	//   console.log('hey ' + name);
+	// };
+	// hey();
+	// var name = 'Sunil';
+
+
 	// function printAreaCircle(radius){
 	// 	let pi = 3.14;
 	// 	let area = pi * radius * radius;
 	// 	return area;
 	// }
-	// print(area); // will be an error
+ 	//  console.log(area) // will be an error
+ 	//  console.log(printAreaCircle(5));
 	
