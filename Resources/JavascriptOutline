@@ -57,5 +57,16 @@ iv.	Program Flow
 		- adding loops to blackjack
 			- Use nested loops to loop through array of suits and values to create a deck of 52
 v.  Functions
+	a. What is a function and properties of a function
+		- It's a subprogram, executed when called (invoking), values can be passed in it
+	b. Function Declaration vs. Function Expression
+		- Declarations are hoisted, Expressions aren't
+	c. Passing arguments to function parameters
+	d. Invoking a function 
+	e. All functions have a return type
+		- No return specified? == undefined
+	f. 'Return' statement immediately stops execution of the function
+	g. Assigning function return values to a variable
+		- Ex: let outputVariable = myFunctionOutput();
 vi. Scope
 vii.Objects - Refer back to Array object and how it works

@@ -8,21 +8,21 @@
 	//Program Flow: if, else, loop
 
 // operators: ===, >, >=, !==
-	if(2 === 2){
-		console.log('Yes');
-	}
+	// if(2 === 2){
+	// 	console.log('Yes');
+	// }
 
-	if(5 > 10){
-		console.log('No');
-	}
+	// if(5 > 10){
+	// 	console.log('No');
+	// }
 
-	if(5 >= 5){
-		console.log('Yes');
-	}
+	// if(5 >= 5){
+	// 	console.log('Yes');
+	// }
 
-	if(3 !== 4){
-		console.log('Yes')
-	}
+	// if(3 !== 4){
+	// 	console.log('Yes')
+	// }
 
 // if statement condition
 	let state = 'FL';
