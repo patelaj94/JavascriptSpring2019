@@ -1,0 +1,13 @@
+Class 5 exercises
+
+1. Let's make a student object:
+Make an object called student that has two properties: name, and a list of grades. Make an example student with two grades.
+
+2. Finish the below function that takes in a student object, and gives back their average, based on the list of grades.
+	// function gradeMe(student) {
+	//    let sumOfGrades = 0
+	//    for (i = 0; i < student.grades.length; i++) { 
+  	//		sumOfGrades += student.grades[i];
+	//		}
+	//	  return 0
+	// } 
