@@ -68,5 +68,15 @@ v.  Functions
 	f. 'Return' statement immediately stops execution of the function
 	g. Assigning function return values to a variable
 		- Ex: let outputVariable = myFunctionOutput();
+	h. Scope
+		- Local Variable vs. Global Variable 
 vi. Scope
 vii.Objects - Refer back to Array object and how it works
+	a. We learned arrays to group things. But what good are they without context?
+		- Array of Objects
+	b. Storing related information together
+		- Each object has 'properties'
+	c. Passing Objects to function
+	d. Array of Objects 
+	e. built in objects in JS
+	
