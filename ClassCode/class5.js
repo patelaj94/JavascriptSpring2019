@@ -28,9 +28,23 @@
 		student: false
 	};
 	changeAge(person);
-	console.log(person.age)
+	console.log(perso)
 	// Let's write a function that will change the person's student status to opposite
 	// what it was
+	function changeStudentStatus(person){
+		if(person.student === false){
+			person.student = true
+		}
+		else{
+			person.student = false
+		}
+		// Shortcuts - YAY -> person.student = !person.student
+		// remember, this is a boolean. boolean only has two types,
+		// we can just take the inverse/opposite using the '!'
+	}
+	changeStudentStatus(person)
+	console.log(person)
+
 
 // Array of Objects and printing different values of that array
 	let arrayPeople = ['Tom', 'Jerry', 'Bugs', 'Tweety', 'Taz'];
