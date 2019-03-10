@@ -8,5 +8,5 @@ Resources Folder (All files which don't belong in a different folder):
 Practice Folder (Challenge yourself outside of our session; It's the only way to grow):
   - Outline.txt - contains an outline of the summary of all the problems you can work on after each sessi
   
-Final project Link:  
+Final Project Link:  
   - https://github.com/decimalst/LibraryClassFinalProject
